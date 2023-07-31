@@ -58,3 +58,6 @@ that particular period (sum of units sold multiplied by their respective price).
 • A lower WRMSSE is better.
 
 
+### Apple MAC M1 lightgbm installation instructions
+
+> https://towardsdatascience.com/install-xgboost-and-lightgbm-on-apple-m1-macs-cb75180a2dda
