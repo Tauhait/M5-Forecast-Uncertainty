@@ -57,6 +57,13 @@ sample of the dataset, i.e., the cumulative actual dollar sales that each series
 that particular period (sum of units sold multiplied by their respective price).
 • A lower WRMSSE is better.
 
+## Submission
+
+<picture>
+ <source media="(prefers-color-scheme: dark)" srcset="imgs/kaggleSubmission.png">
+ <source media="(prefers-color-scheme: light)" srcset="imgs/kaggleSubmission.png">
+ <img alt="data hierarchy" src="imgs/kaggleSubmission.png">
+</picture>
 
 ### Apple MAC M1 lightgbm installation instructions
 
